@@ -5,7 +5,7 @@ Test:
 1.Editor下寻路正常
 ![Editor_Nav.png](Editor_Nav.png)
 ![Editor_Nav2.png](Editor_Nav2.png)
-2.单独加载
+2.运行时分别单独加载stream level
 ![Runtime_First.png](Runtime_First.png)
 ![Runtime_Second.png](Runtime_Second.png)
 3.由上可看Editor下和Runtime寻路边界并不相同，Runtime下会有缺失或多余，目前猜测与tile有关
